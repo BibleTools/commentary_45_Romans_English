@@ -16,49 +16,49 @@ Throughout the book, Paul demonstrates his mastery of theology and his ability t
 
 The following is an outline of the book:
 
-I. Introduction (1:1-17)
-A. Greetings and introduction (1:1-7)
-B. Paul's desire to visit Rome (1:8-15)
-C. Theme of the letter: the gospel is the power of God for salvation (1:16-17)
+I. Introduction (1:1-17)<br>
+A. Greetings and introduction (1:1-7)<br>
+B. Paul's desire to visit Rome (1:8-15)<br>
+C. Theme of the letter: the gospel is the power of God for salvation (1:16-17)<br>
 
-II. The Need for the Gospel (1:18-3:20)
-A. The guilt of the Gentiles (1:18-32)
-B. The guilt of the Jews (2:1-29)
-C. God's Faithfulness and Man's Unfaithfulness (3:1-8)
-D. The conclusion: all are guilty before God (3:9-20)
+II. The Need for the Gospel (1:18-3:20)<br>
+A. The guilt of the Gentiles (1:18-32)<br>
+B. The guilt of the Jews (2:1-29)<br>
+C. God's Faithfulness and Man's Unfaithfulness (3:1-8)<br>
+D. The conclusion: all are guilty before God (3:9-20)<br>
 
-III. Justification by Faith (3:21-5:21)
-A. The righteousness of God through faith (3:21-31)
-B. Abraham, the father of faith (4:1-25)
-C. The benefits of justification (5:1-11)
-D. Adam and Christ (5:12-21)
+III. Justification by Faith (3:21-5:21)<br>
+A. The righteousness of God through faith (3:21-31)<br>
+B. Abraham, the father of faith (4:1-25)<br>
+C. The benefits of justification (5:1-11)<br>
+D. Adam and Christ (5:12-21)<br>
 
-IV. Sanctification (6:1-8:39)
-A. The results of justification (6:1-14)
-B. Slaves of righteousness (6:15-23)
-C. The law and sin (7:1-25)
-D. Life in the Spirit (8:1-17)
-E. The future glory (8:18-30)
-F. God's love and security in Christ (8:31-39)
+IV. Sanctification (6:1-8:39)<br>
+A. The results of justification (6:1-14)<br>
+B. Slaves of righteousness (6:15-23)<br>
+C. The law and sin (7:1-25)<br>
+D. Life in the Spirit (8:1-17)<br>
+E. The future glory (8:18-30)<br>
+F. God's love and security in Christ (8:31-39)<br>
 
-V. The Problem of Israel (9:1-11:36)
-A. God's sovereign choice (9:1-29)
-B. Israel's unbelief (9:30-10:21)
-C. God's mercy and Israel's future (11:1-36)
+V. The Problem of Israel (9:1-11:36)<br>
+A. God's sovereign choice (9:1-29)<br>
+B. Israel's unbelief (9:30-10:21)<br>
+C. God's mercy and Israel's future (11:1-36)<br>
 
-VI. Christian Living (12:1-15:13)
-A. A living sacrifice (12:1-2)
-B. Use your gifts to build up the body (12:3-8)
-C. Love in action (12:9-21)
-D. Submission to authority (13:1-7)
-E. Love fulfills the law (13:8-14)
-F. Do not judge others (14:1-12)
-G. Do not cause others to stumble (14:13-23)
-H. The example of Christ (15:1-13)
+VI. Christian Living (12:1-15:13)<br>
+A. A living sacrifice (12:1-2)<br>
+B. Use your gifts to build up the body (12:3-8)<br>
+C. Love in action (12:9-21)<br>
+D. Submission to authority (13:1-7)<br>
+E. Love fulfills the law (13:8-14)<br>
+F. Do not judge others (14:1-12)<br>
+G. Do not cause others to stumble (14:13-23)<br>
+H. The example of Christ (15:1-13)<br>
 
-VII. Conclusion (15:14-16:27)
-A. Paul's ministry (15:14-33)
-B. Greetings to many people (16:1-16)
-C. Final instructions and warnings (16:17-20)
-D. Greetings from Paul's friends (16:21-24)
-E. Benediction (16:25-27)
+VII. Conclusion (15:14-16:27)<br>
+A. Paul's ministry (15:14-33)<br>
+B. Greetings to many people (16:1-16)<br>
+C. Final instructions and warnings (16:17-20)<br>
+D. Greetings from Paul's friends (16:21-24)<br>
+E. Benediction (16:25-27)<br>
