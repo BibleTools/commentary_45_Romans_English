@@ -1,0 +1,11 @@
+# Context
+
+The book of Romans was written by the apostle Paul to the church in Rome, a city that was the center of the Roman Empire, in the mid-50s AD. At the time, the Christian church was facing persecution and discrimination from both the Jewish and Roman communities.
+
+In Romans 1:16-17, Paul emphasizes the power of the gospel as the message of salvation to all people, regardless of their social status, ethnicity, or background. He writes that the gospel is "the power of God for salvation to everyone who believes, to the Jew first and also to the Greek" (Romans 1:16). This message was particularly relevant to the early Christians, who faced discrimination and persecution from the Jewish community, who saw the Christian message as a threat to their traditional beliefs and practices.
+
+Furthermore, the gospel message challenged the social and political structures of the Roman Empire, which placed a high value on power, status, and social hierarchy. The gospel proclaimed a message of equality and salvation for all people, regardless of their social status or background, which was a radically different message from the Roman worldview.
+
+Paul also emphasizes the importance of faith in the gospel message, which was a particularly challenging concept for the early Christians, who were often pressured to conform to the beliefs and practices of the dominant culture. Paul writes that "the righteous shall live by faith" (Romans 1:17), emphasizing the importance of trusting in God's promise of salvation, rather than relying on our own efforts or achievements.
+
+In summary, the historical context of Romans 1:16-17 highlights the struggles that early Christians faced in their efforts to spread the gospel message in a world that was hostile to their beliefs and practices. Paul's message of the power of the gospel for salvation and the importance of faith in God's promises provided hope and strength to early Christians who faced persecution and discrimination. Understanding this historical context can help us to better interpret the meaning of this passage and apply its message to our own lives.

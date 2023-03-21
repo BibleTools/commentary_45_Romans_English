@@ -1,0 +1,17 @@
+# Themes
+
+Romans 9:1-29 is a passage that addresses God's sovereign choice in the salvation of his people. The passage explores three main themes: God's freedom to choose, the salvation of both Jews and Gentiles, and the hardening of hearts.
+
+One of the key themes of this passage is the freedom of God to choose whom he will show mercy to. Paul acknowledges that there are many Israelites who have not believed in Jesus, despite being the chosen people of God (v. 6). This raises questions about God's faithfulness to his promises, which Paul addresses by emphasizing that God's choice to show mercy is not based on ethnic identity or human effort (v. 11). Instead, God shows mercy to whomever he chooses (v. 15) and hardens whomever he chooses (v. 18).
+
+Another central theme of this passage is the salvation of both Jews and Gentiles. Paul notes that not all Israelites have been chosen for salvation, but that God has also called Gentiles to be part of his people (v. 24). This is a radical idea, as the Jewish people were accustomed to thinking of themselves as the only chosen people of God. However, Paul emphasizes that God's mercy is not limited to any particular group, but is freely offered to all who will receive it.
+
+Finally, the passage deals with the hardening of hearts. Paul acknowledges that many Israelites have rejected the message of Jesus and asks why this is so. He notes that God has the power to harden hearts and that this has been done to some Israelites (v. 18). However, he also emphasizes that people have a responsibility to respond to the message of the gospel and that those who reject it do so of their own volition (v. 32).
+
+Biblical Greek studies can help us understand each of these themes more deeply. For example, the Greek word translated as "mercy" in this passage is "eleos," which emphasizes the compassionate, merciful nature of God. This helps us to see that God's choice to show mercy is not arbitrary, but is rooted in his loving character.
+
+The theological implications of this passage are significant. It emphasizes the sovereignty of God in salvation and underscores the fact that our salvation is not based on our own merits or ethnic identity, but on God's grace alone. It also challenges us to consider the possibility that God may choose to harden hearts for his own purposes, even as he extends mercy to others.
+
+The Old Testament contributes to our understanding of this passage in several ways. For example, Paul quotes from Genesis when he says, "I will have mercy on whom I have mercy, and I will have compassion on whom I have compassion" (v. 15). This is a reference to God's conversation with Moses in Exodus 33:19, where God emphasizes his sovereignty in showing mercy. Additionally, Paul quotes from Hosea when he says, "I will call them 'my people' who are not my people" (v. 25). This is a reference to the message of Hosea, who prophesied that God would call Gentiles to be part of his people.
+
+The message of this passage impacts our connection with God by challenging us to trust in his sovereignty and to rest in his grace. It also reminds us that our salvation is a gift of God, and that we should not take it for granted or presume upon his mercy.

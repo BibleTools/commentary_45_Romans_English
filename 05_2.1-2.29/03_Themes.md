@@ -1,0 +1,15 @@
+# Themes
+
+Romans 2:1-29 discusses the guilt of the Jews, and there are several key themes expressed in this passage. One of the primary themes is the idea of judgment, both human and divine. The passage begins by warning against the human tendency to judge others, and emphasizes that God alone is the judge of all people. The passage goes on to explain that both Jews and Gentiles will be judged according to their actions, and that God will render judgment impartially.
+
+Another theme of the passage is the importance of repentance and obedience. Paul emphasizes that it is not enough for Jews to rely on their identity as God's chosen people or on their adherence to the law, but rather they must also live obediently and repent when they fall short of God's standards. This theme is closely tied to the idea of righteousness, which is also central to the passage. Paul argues that true righteousness is not achieved through adherence to the law, but rather through faith in Jesus Christ.
+
+Biblical Greek studies can help us understand each of these themes more fully. For example, the Greek word used for "judgment" in this passage, krino, has a broad range of meanings that include not only judging but also discerning and evaluating. Similarly, the Greek word used for "repentance," metanoia, implies not just a change of mind but a complete transformation of one's life.
+
+One illustration that aids our understanding of these themes is the parable of the prodigal son (Luke 15:11-32). In this story, the younger son represents the Gentiles, who have strayed far from God, while the older son represents the Jews, who have remained faithful but are in danger of becoming self-righteous. The story emphasizes the importance of both repentance and obedience, as well as the joy that comes when a lost sinner is found and restored to fellowship with God.
+
+The theological implications of this passage are significant. It reminds us that all people, regardless of their background or upbringing, are guilty of sin and in need of God's mercy and grace. It also emphasizes the importance of faith in Jesus Christ, who alone can truly make us righteous and restore us to a right relationship with God.
+
+The Old Testament contributes to our understanding of this New Testament passage in several ways. For example, the prophets repeatedly warned the Israelites against relying on their identity as God's chosen people or on their adherence to the law, and called them to repent and turn back to God. The book of Psalms also contains numerous prayers of repentance and expressions of faith in God's mercy and forgiveness.
+
+Finally, the message conveyed in this passage has a profound impact on our connection with God. It reminds us that we must constantly be examining our hearts and repenting of any sin, and that we must always be striving for greater obedience and faith in Jesus Christ. It also encourages us to avoid the trap of self-righteousness and to rely solely on God's grace and mercy for our salvation.
