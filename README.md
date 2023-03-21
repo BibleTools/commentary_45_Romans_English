@@ -32,59 +32,61 @@ Rev. Eliran Wong<br>
 
 [Commentary on Romans 2:1-29](https://github.com/BibleTools/commentary_45_Romans_English/tree/main/05_2.1-2.29)
 
-[Commentary on Romans 3:9-20](https://github.com/BibleTools/commentary_45_Romans_English/tree/main/06_3.9-3.20)
+[Commentary on Romans 3:1-8](https://github.com/BibleTools/commentary_45_Romans_English/tree/main/06_3.1-3.8)
 
-[Commentary on Romans 3:21-31](https://github.com/BibleTools/commentary_45_Romans_English/tree/main/07_3.21-3.31)
+[Commentary on Romans 3:9-20](https://github.com/BibleTools/commentary_45_Romans_English/tree/main/07_3.9-3.20)
 
-[Commentary on Romans 4:1-25](https://github.com/BibleTools/commentary_45_Romans_English/tree/main/08_4.1-4.25)
+[Commentary on Romans 3:21-31](https://github.com/BibleTools/commentary_45_Romans_English/tree/main/08_3.21-3.31)
 
-[Commentary on Romans 5:1-11](https://github.com/BibleTools/commentary_45_Romans_English/tree/main/09_5.1-5.11)
+[Commentary on Romans 4:1-25](https://github.com/BibleTools/commentary_45_Romans_English/tree/main/09_4.1-4.25)
 
-[Commentary on Romans 5:12-21](https://github.com/BibleTools/commentary_45_Romans_English/tree/main/10_5.12-5.21)
+[Commentary on Romans 5:1-11](https://github.com/BibleTools/commentary_45_Romans_English/tree/main/10_5.1-5.11)
 
-[Commentary on Romans 6:1-14](https://github.com/BibleTools/commentary_45_Romans_English/tree/main/11_6.1-6.14)
+[Commentary on Romans 5:12-21](https://github.com/BibleTools/commentary_45_Romans_English/tree/main/11_5.12-5.21)
 
-[Commentary on Romans 6:15-23](https://github.com/BibleTools/commentary_45_Romans_English/tree/main/12_6.15-6.23)
+[Commentary on Romans 6:1-14](https://github.com/BibleTools/commentary_45_Romans_English/tree/main/12_6.1-6.14)
 
-[Commentary on Romans 7:1-25](https://github.com/BibleTools/commentary_45_Romans_English/tree/main/13_7.1-7.25)
+[Commentary on Romans 6:15-23](https://github.com/BibleTools/commentary_45_Romans_English/tree/main/13_6.15-6.23)
 
-[Commentary on Romans 8:1-17](https://github.com/BibleTools/commentary_45_Romans_English/tree/main/14_8.1-8.17)
+[Commentary on Romans 7:1-25](https://github.com/BibleTools/commentary_45_Romans_English/tree/main/14_7.1-7.25)
 
-[Commentary on Romans 8:18-30](https://github.com/BibleTools/commentary_45_Romans_English/tree/main/15_8.18-8.30)
+[Commentary on Romans 8:1-17](https://github.com/BibleTools/commentary_45_Romans_English/tree/main/15_8.1-8.17)
 
-[Commentary on Romans 8:31-39](https://github.com/BibleTools/commentary_45_Romans_English/tree/main/16_8.31-8.39)
+[Commentary on Romans 8:18-30](https://github.com/BibleTools/commentary_45_Romans_English/tree/main/16_8.18-8.30)
 
-[Commentary on Romans 9:1-29](https://github.com/BibleTools/commentary_45_Romans_English/tree/main/17_9.1-9.29)
+[Commentary on Romans 8:31-39](https://github.com/BibleTools/commentary_45_Romans_English/tree/main/17_8.31-8.39)
 
-[Commentary on Romans 9:30-10:21](https://github.com/BibleTools/commentary_45_Romans_English/tree/main/18_9.30-10.21)
+[Commentary on Romans 9:1-29](https://github.com/BibleTools/commentary_45_Romans_English/tree/main/18_9.1-9.29)
 
-[Commentary on Romans 11:1-36](https://github.com/BibleTools/commentary_45_Romans_English/tree/main/19_11.1-11.36)
+[Commentary on Romans 9:30-10:21](https://github.com/BibleTools/commentary_45_Romans_English/tree/main/19_9.30-10.21)
 
-[Commentary on Romans 12:1-2](https://github.com/BibleTools/commentary_45_Romans_English/tree/main/20_12.1-12.2)
+[Commentary on Romans 11:1-36](https://github.com/BibleTools/commentary_45_Romans_English/tree/main/20_11.1-11.36)
 
-[Commentary on Romans 12:3-8](https://github.com/BibleTools/commentary_45_Romans_English/tree/main/21_12.3-12.8)
+[Commentary on Romans 12:1-2](https://github.com/BibleTools/commentary_45_Romans_English/tree/main/21_12.1-12.2)
 
-[Commentary on Romans 12:9-21](https://github.com/BibleTools/commentary_45_Romans_English/tree/main/22_12.9-12.21)
+[Commentary on Romans 12:3-8](https://github.com/BibleTools/commentary_45_Romans_English/tree/main/22_12.3-12.8)
 
-[Commentary on Romans 13:1-7](https://github.com/BibleTools/commentary_45_Romans_English/tree/main/23_13.1-13.7)
+[Commentary on Romans 12:9-21](https://github.com/BibleTools/commentary_45_Romans_English/tree/main/23_12.9-12.21)
 
-[Commentary on Romans 13:8-14](https://github.com/BibleTools/commentary_45_Romans_English/tree/main/24_13.8-13.14)
+[Commentary on Romans 13:1-7](https://github.com/BibleTools/commentary_45_Romans_English/tree/main/24_13.1-13.7)
 
-[Commentary on Romans 14:1-12](https://github.com/BibleTools/commentary_45_Romans_English/tree/main/25_14.1-14.12)
+[Commentary on Romans 13:8-14](https://github.com/BibleTools/commentary_45_Romans_English/tree/main/25_13.8-13.14)
 
-[Commentary on Romans 14:13-23](https://github.com/BibleTools/commentary_45_Romans_English/tree/main/26_14.13-14.23)
+[Commentary on Romans 14:1-12](https://github.com/BibleTools/commentary_45_Romans_English/tree/main/26_14.1-14.12)
 
-[Commentary on Romans 15:1-13](https://github.com/BibleTools/commentary_45_Romans_English/tree/main/27_15.1-15.13)
+[Commentary on Romans 14:13-23](https://github.com/BibleTools/commentary_45_Romans_English/tree/main/27_14.13-14.23)
 
-[Commentary on Romans 15:14-33](https://github.com/BibleTools/commentary_45_Romans_English/tree/main/28_15.14-15.33)
+[Commentary on Romans 15:1-13](https://github.com/BibleTools/commentary_45_Romans_English/tree/main/28_15.1-15.13)
 
-[Commentary on Romans 16:1-16](https://github.com/BibleTools/commentary_45_Romans_English/tree/main/29_16.1-16.16)
+[Commentary on Romans 15:14-33](https://github.com/BibleTools/commentary_45_Romans_English/tree/main/29_15.14-15.33)
 
-[Commentary on Romans 16:17-20](https://github.com/BibleTools/commentary_45_Romans_English/tree/main/30_16.17-16.20)
+[Commentary on Romans 16:1-16](https://github.com/BibleTools/commentary_45_Romans_English/tree/main/30_16.1-16.16)
 
-[Commentary on Romans 16:21-24](https://github.com/BibleTools/commentary_45_Romans_English/tree/main/31_16.21-16.24)
+[Commentary on Romans 16:17-20](https://github.com/BibleTools/commentary_45_Romans_English/tree/main/31_16.17-16.20)
 
-[Commentary on Romans 16:25-27](https://github.com/BibleTools/commentary_45_Romans_English/tree/main/32_16.25-16.27)
+[Commentary on Romans 16:21-24](https://github.com/BibleTools/commentary_45_Romans_English/tree/main/32_16.21-16.24)
+
+[Commentary on Romans 16:25-27](https://github.com/BibleTools/commentary_45_Romans_English/tree/main/33_16.25-16.27)
 
 # Support Us
 
